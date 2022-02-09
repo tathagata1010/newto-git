@@ -14,6 +14,7 @@ int main()
     {
         int key = a[i];
         int j = i - 1;
+        //check bug changes using github
         while (key < a[j] && j>=0)
         {
             a[j + 1] = a[j];
