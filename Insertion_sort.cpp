@@ -14,7 +14,7 @@ int main()
     {
         int key = a[i];
         int j = i - 1;
-        while (key < a[j])
+        while (key < a[j] && j>=0)
         {
             a[j + 1] = a[j];
             j--;
