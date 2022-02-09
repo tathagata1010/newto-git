@@ -1,2 +1,1 @@
-# newto-git
-version control learning
+# version control learning using remote github platform
