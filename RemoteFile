@@ -2,3 +2,4 @@ File is created in remote. commit1
 File is changed in remote. commit2
 File is changed in local. commit3
 File is changed in local. commit4
+conflict check from remote.
